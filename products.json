@@ -1,0 +1,215 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "Name": "High-Resolution Smart TV",
+        "Description": "Immerse yourself in stunning visuals with this high-resolution smart TV for an unparalleled home entertainment experience.",
+        "Price": 800,
+        "Image": "smart_tv.jpg"
+      },
+      {
+        "id": 2,
+        "Name": "Wireless Noise-Canceling Headphones",
+        "Description": "Enjoy your favorite music in peace with these wireless noise-canceling headphones, designed for superior audio quality and comfort.",
+        "Price": 250,
+        "Image": "noise_canceling_headphones.jpg"
+      },
+      {
+        "id": 3,
+        "Name": "Smartphone with AI Camera",
+        "Description": "Capture stunning photos and stay connected with the latest smartphone featuring an AI-powered camera and cutting-edge technology.",
+        "Price": 700,
+        "Image": "smartphone_with_camera.jpg"
+      },
+      {
+        "id": 4,
+        "Name": "Gaming Laptop with RGB Keyboard",
+        "Description": "Elevate your gaming experience with this powerful gaming laptop featuring high-performance hardware and a customizable RGB keyboard.",
+        "Price": 1200,
+        "Image": "gaming_laptop.jpg"
+      },
+      {
+        "id": 5,
+        "Name": "Smart Home Security System",
+        "Description": "Keep your home safe and secure with a smart home security system that includes cameras, sensors, and remote monitoring.",
+        "Price": 350,
+        "Image": "smart_security_system.jpg"
+      },
+      {
+        "id": 6,
+        "Name": "Tablet with Retina Display",
+        "Description": "Experience vivid colors and sharp clarity with a tablet featuring a Retina display, perfect for work or entertainment on the go.",
+        "Price": 400,
+        "Image": "retina_display_tablet.jpg"
+      },
+      {
+        "id": 7,
+        "Name": "High-Fidelity Wireless Speaker",
+        "Description": "Fill your room with crystal-clear sound using this high-fidelity wireless speaker that's compatible with all your devices.",
+        "Price": 150,
+        "Image": "wireless_speaker.jpg"
+      },
+      {
+        "id": 8,
+        "Name": "Digital Camera with 4K Video",
+        "Description": "Capture life's moments in stunning detail with a digital camera that records 4K video and offers versatile photography options.",
+        "Price": 600,
+        "Image": "4k_digital_camera.jpg"
+      },
+      {
+        "id": 9,
+        "Name": "Smart Thermostat for Home",
+        "Description": "Control your home's temperature efficiently and remotely with a smart thermostat that saves energy and enhances comfort.",
+        "Price": 180,
+        "Image": "smart_thermostat.jpg"
+      },
+      {
+        "id": 10,
+        "Name": "Durable Laptop Backpack",
+        "Description": "Protect and carry your valuable electronics with a durable laptop backpack designed for convenience and security.",
+        "Price": 50,
+        "Image": "laptop_backpack.jpg"
+      },
+      {
+        "id": 11,
+        "Name": "Ultra-Slim LED Monitor",
+        "Description": "Experience clear and vibrant visuals with this ultra-slim LED monitor, perfect for work and entertainment.",
+        "Price": 300,
+        "Image": "led_monitor.jpg"
+      },
+      {
+        "id": 12,
+        "Name": "Smartwatch with Health Tracking",
+        "Description": "Stay fit and connected with a smartwatch that offers health tracking features and smartphone integration.",
+        "Price": 200,
+        "Image": "smartwatch_health_tracking.jpg"
+      },
+      {
+        "id": 13,
+        "Name": "Compact Wireless Keyboard",
+        "Description": "Boost your productivity with a compact wireless keyboard designed for convenience and portability.",
+        "Price": 40,
+        "Image": "compact_wireless_keyboard.jpg"
+      },
+      {
+        "id": 14,
+        "Name": "Home Theater Sound System",
+        "Description": "Create a cinematic audio experience at home with a high-quality home theater sound system.",
+        "Price": 500,
+        "Image": "home_theater_sound_system.jpg"
+      },
+      {
+        "id": 15,
+        "Name": "High-Speed Wi-Fi Router",
+        "Description": "Enhance your internet connection with a high-speed Wi-Fi router that ensures reliable and fast internet access.",
+        "Price": 80,
+        "Image": "wifi_router.jpg"
+      },
+      {
+        "id": 16,
+        "Name": "Portable Power Bank",
+        "Description": "Stay charged on the go with a portable power bank that keeps your devices powered wherever you are.",
+        "Price": 30,
+        "Image": "portable_power_bank.jpg"
+      },
+      {
+        "id": 17,
+        "Name": "Gaming Console with VR",
+        "Description": "Experience immersive gaming with a gaming console that includes virtual reality (VR) capabilities and a vast game library.",
+        "Price": 400,
+        "Image": "gaming_console_vr.jpg"
+      },
+      {
+        "id": 18,
+        "Name": "Wireless Charging Pad",
+        "Description": "Charge your devices wirelessly with a sleek and efficient wireless charging pad for added convenience.",
+        "Price": 25,
+        "Image": "wireless_charging_pad.jpg"
+      },
+      {
+        "id": 19,
+        "Name": "High-Performance Graphics Card",
+        "Description": "Upgrade your gaming rig with a high-performance graphics card that delivers exceptional gaming experiences.",
+        "Price": 350,
+        "Image": "graphics_card.jpg"
+      },
+      {
+        "id": 20,
+        "Name": "Smart Home Voice Assistant",
+        "Description": "Make your home smarter with a voice assistant that controls lights, appliances, and provides information with voice commands.",
+        "Price": 90,
+        "Image": "smart_home_voice_assistant.jpg"
+      },
+      {
+        "id": 21,
+        "Name": "Ultra-Compact Digital Camera",
+        "Description": "Capture life's moments in a small package with an ultra-compact digital camera that fits in your pocket.",
+        "Price": 150,
+        "Image": "ultra_compact_digital_camera.jpg"
+      },
+      {
+        "id": 22,
+        "Name": "Smart Doorbell with Camera",
+        "Description": "Enhance your home security with a smart doorbell featuring a built-in camera and two-way audio communication.",
+        "Price": 120,
+        "Image": "smart_doorbell_camera.jpg"
+      },
+      {
+        "id": 23,
+        "Name": "Compact Bluetooth Speaker",
+        "Description": "Enjoy your music anywhere with a compact Bluetooth speaker that delivers impressive sound in a portable design.",
+        "Price": 50,
+        "Image": "compact_bluetooth_speaker.jpg"
+      },
+      {
+        "id": 24,
+        "Name": "Robotic Vacuum Cleaner",
+        "Description": "Simplify your cleaning routine with a robotic vacuum cleaner that navigates your home and keeps it spotless.",
+        "Price": 250,
+        "Image": "robotic_vacuum_cleaner.jpg"
+      },
+      {
+        "id": 25,
+        "Name": "Smart Refrigerator with Touchscreen",
+        "Description": "Manage your groceries and stay connected with a smart refrigerator featuring a touchscreen display and advanced features.",
+        "Price": 1000,
+        "Image": "smart_refrigerator_touchscreen.jpg"
+      },
+      {
+        "id": 26,
+        "Name": "Multi-Port USB Charger",
+        "Description": "Charge multiple devices simultaneously with a multi-port USB charger that ensures fast and efficient charging.",
+        "Price": 20,
+        "Image": "multi_port_usb_charger.jpg"
+      },
+      {
+        "id": 27,
+        "Name": "Wireless In-Ear Earbuds",
+        "Description": "Enjoy wireless freedom with in-ear earbuds that offer high-quality audio and a comfortable fit for active lifestyles.",
+        "Price": 80,
+        "Image": "wireless_in_ear_earbuds.jpg"
+      },
+      {
+        "id": 28,
+        "Name": "4K Ultra HD Blu-ray Player",
+        "Description": "Experience breathtaking 4K UHD entertainment with a Blu-ray player that delivers exceptional picture and audio quality.",
+        "Price": 150,
+        "Image": "4k_uhd_blu_ray_player.jpg"
+      },
+      {
+        "id": 29,
+        "Name": "Smart LED Bulbs",
+        "Description": "Transform your home's lighting with smart LED bulbs that offer customizable lighting and energy savings.",
+        "Price": 30,
+        "Image": "smart_led_bulbs.jpg"
+      },
+      {
+        "id": 30,
+        "Name": "High-Performance Graphics Card",
+        "Description": "Upgrade your gaming rig with a high-performance graphics card that delivers exceptional gaming experiences.",
+        "Price": 350,
+        "Image": "graphics1_card.jpg"
+      }
+    ]
+  }
+  
